@@ -17,4 +17,4 @@ Projects
    - Confusion matrix and prediction interface
 
 Technologies
-Python • NumPy • Pandas • Scikit-learn • Matplotlib • Jupyter Notebook
+Python • NumPy • Pandas • Scikit-learn • Matplotlib 
